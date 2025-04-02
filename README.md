@@ -29,7 +29,7 @@
 </br>
 
 # 安装方式
-> ### 程序可执行文件在任意位置均可运行，但依然推荐使用Windows任务计划程序配置开启启动，具体配置方式详见[bilibili](https://www.bilibili.com)相关视频
+> ### 程序可执行文件在任意位置均可运行，但依然推荐使用Windows任务计划程序配置开启启动，具体配置方式详见[bilibili](https://www.bilibili.com/video/BV1dLfPYsEHx)相关视频
 
 
 
