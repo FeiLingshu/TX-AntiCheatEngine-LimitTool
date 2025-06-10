@@ -159,7 +159,7 @@ namespace SGuard64_LimitTool
                 AutoResetEvent timer = new AutoResetEvent(false);
                 do
                 {
-                    timer.WaitOne(new TimeSpan(0, 5, 0));
+                    timer.WaitOne(new TimeSpan(0, 1, 0));
                     //timer.WaitOne(100); // for test
                     if (!Thread.CurrentThread.IsAlive) break;
                     Set(processinfo.process1, processinfo.corestate, processinfo.processormask);
