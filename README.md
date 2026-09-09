@@ -1,3 +1,6 @@
+<pre><code>重新编写了一个优化版，功能上没有改动，仅优化了稳定性
+仓库链接：<a href="https://github.com/FeiLingshu/ACEController">https://github.com/FeiLingshu/ACEController</a></code></pre>
+
 # TX-AntiCheatEngine-LimitTool `腾讯反作弊组件限制工具`  
 > ## 目前反作弊组件会将限制行为定义为 `修改游戏客户端`，提示 `安全系统或数据被篡改`，在LOL测试环境下，会对游戏账号进行 `全区封禁5分钟` 的处罚，触发时机未知，触发频率未知
 > ### 以下为目前的测试时间表
